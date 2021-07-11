@@ -1,0 +1,7 @@
+h1  {
+    text-align: Center; 
+}
+.carousel-inner{
+    width:750%;
+    max-height: 75px !important;
+  }
